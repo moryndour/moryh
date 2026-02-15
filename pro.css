@@ -1,0 +1,126 @@
+header{
+    color: white;
+}
+body{
+    background-image: url(arriere.jpg);
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    display: flex;
+    gap: 300px;
+}
+ul{
+    display: flex;
+    gap: 80px;
+    list-style: none;
+}
+li:hover{
+    color: green;
+    cursor: pointer;
+}
+.photo{
+   text-align: center;
+   margin-top: 25px;
+   
+}
+.im1{
+    border-radius: 20%;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    
+}
+.accuiel{
+    color: green;
+}
+.propos{
+   background-image: url(arriere.jpg);
+   margin: 0;
+   padding: 0;
+
+}
+.im{
+    width: 40%;
+    height: 100%;
+    border-radius: 20%;
+    margin-left: 25%;
+}
+.page1{
+    margin-top: 100px;
+    gap: 10px;
+    display: flex;
+}
+.re{
+    font-size: 200%;
+    color: whitesmoke;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.competence{
+    background-image: url(arriere.jpg);
+    height: 200%;
+    
+}
+.po{
+    background-color: green;
+    display: inline;
+    font-weight: 300;
+}
+.item{
+    display: flex;
+    color: white;
+    height: 50%;
+    width: 50%;
+    margin-left: 40%;
+}
+.max{
+    width: 200px;
+    background-color: green;
+    height: 20px;
+    border-radius: 10px;
+}
+.valeur{
+    width: 95%;
+    height: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+.valeur1{
+     width: 60%;
+    height: 20px;
+    background-color:white;
+    border-radius: 10px;
+}
+.valeur2{
+    width: 70%;
+    height: 20px;
+    background-color:white;
+    border-radius: 10px;
+}
+.mory{
+    gap: 350;
+}
+.contact{
+    background-image: url(abstract-textured-backgound.jpg);
+}
+.con{
+    color: white;
+    font-size: 200%;
+}
+.can{
+    color:green;
+    font-size: 300%;
+}
+.ty{
+    display: flex;
+    gap: 500px;
+    color: white;
+    font-size: 180%;
+}
+fieldset{
+    margin-left: 500px;
+    margin-right: 500px;
+    color: whitesmoke;
+}
